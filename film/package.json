@@ -1,0 +1,19 @@
+{
+  "name": "@momo-kits/film",
+  "version": "0.0.43-beta.20",
+  "private": false,
+  "main": "index.js",
+  "dependencies": {
+    "@momo-kits/shortcut": "latest",
+    "@momo-kits/selection": "latest"
+  },
+  "peerDependencies": {
+    "react": "16.9.0",
+    "react-native": ">=0.55",
+    "prop-types": "^15.7.2",
+    "lodash": "^4.17.15",
+    "@momo-kits/core": ">=0.0.5-beta"
+  },
+  "devDependencies": {},
+  "license": "MoMo"
+}
